@@ -1,0 +1,2 @@
+# CS5200
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/75d7484c067c4ca8b622e49d5219e20c)](https://www.codacy.com/app/ranjani23/CS5200?utm_source=github.com&utm_medium=referral&utm_content=ranjani23/CS5200&utm_campaign=badger)
